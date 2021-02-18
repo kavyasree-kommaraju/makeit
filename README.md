@@ -34,11 +34,11 @@
 [git hub link](https://www.google.com/search?q=git+hub+images&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi2-ZX0ifPuAhV94HMBHZKsBHQQ_AUoAnoECBMQBA&biw=1920&bih=969)
 
 ** table **
-| name | branch | college | events | facilities |
-| -----| ------| --------| ------- | ---------- |
- | abc | mech | vrsec | fest | drawing lab |
- | xyz | it | vrsec | tech 2021 | it lab |
- | jkl | cse | vrsec | hackathon | innovation hub |
+ name | branch | college | events | facilities 
+ -----| ------| --------| ------- | ---------- 
+  abc | mech | vrsec | fest | drawing lab 
+  xyz | it | vrsec | tech 2021 | it lab 
+  jkl | cse | vrsec | hackathon | innovation hub 
  
  ** code **
  ``` C
